@@ -20,26 +20,3 @@ The project consists of the following files:
    ```
 2. Navigate to the `src` directory.
 3. Open `index.html` in your web browser to view the resume.
-
-## Setup Instructions
-
-To set up the project on GitHub for public viewing, follow these steps:
-
-1. Create a new repository on GitHub.
-2. Clone the repository to your local machine.
-3. Create the project structure as outlined above.
-4. Add your HTML, CSS, and JavaScript code to the respective files.
-5. Commit your changes with a meaningful message:
-   ```
-   git add .
-   git commit -m "Initial commit of resume project"
-   ```
-6. Push the changes to the GitHub repository:
-   ```
-   git push origin main
-   ```
-7. Enable GitHub Pages in the repository settings to make the resume publicly accessible.
-
-## License
-
-This project is open-source and available for anyone to use and modify.
